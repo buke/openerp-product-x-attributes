@@ -11,7 +11,7 @@ openerp product_x_attributes 自定义产品属性
 
 依赖模块： python unidecode  https://pypi.python.org/pypi/Unidecode
 
-安装方法：
+ unidecode 安装方法：
 
 $ pip install unidecode
 
